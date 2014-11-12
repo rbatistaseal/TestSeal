@@ -7,5 +7,6 @@ namespace TesteGitHub
 {
     class Class3
     {
+        public int teste { get; set; }
     }
 }
