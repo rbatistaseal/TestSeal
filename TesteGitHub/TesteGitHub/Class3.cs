@@ -8,5 +8,8 @@ namespace TesteGitHub
     class Class3
     {
         public int teste { get; set; }
+
+        public string cu { get; set; }
     }
+
 }
